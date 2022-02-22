@@ -110,16 +110,9 @@ pre{
   flex-wrap: wrap;
   align-items: center;
   align-self: center;
-  background-color: #4CABD7;
+  background-color: #849FC8;
 }
-.left{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-items: left;
-  align-self: left;
-  background-color: #4DA9D4;
-}
+
 .child_left{
 
   align-self: left;
@@ -150,4 +143,12 @@ pre{
 }
 .darkgrey{
   color: #4C4E52;
+}
+.left{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: left;
+  align-self: left;
+  background-color: #4DA9D4;
 }
