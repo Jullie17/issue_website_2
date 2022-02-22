@@ -144,6 +144,7 @@ pre{
 .darkgrey{
   color: #4C4E52;
 }
+/* changing the parent div
 .left{
   display: flex;
   flex-direction: column;
@@ -151,4 +152,4 @@ pre{
   align-items: left;
   align-self: left;
   background-color: #4DA9D4;
-}
+} */
